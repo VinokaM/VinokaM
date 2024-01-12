@@ -2,7 +2,7 @@
 ![covermy](https://github.com/VinokaM/VinokaM/assets/90492658/0db3985c-51e6-499a-8e7d-98e21b7185b3)
 
 <h1 align="center">Hi 👋, I'm Vinoka Malith</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinokam&label=Profile%20views&color=0e75b6&style=flat" alt="vinokam" /> </p>
 
